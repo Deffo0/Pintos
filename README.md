@@ -25,10 +25,6 @@ Last adopted commit details:
 
 To download the most recent code from [PintOS-OS](https://pintos-os.org/) directly, use the following [link](https://pintos-os.org/cgi-bin/gitweb.cgi?p=pintos-anon;a=snapshot;h=HEAD).
 
-## Installation Guidelines
-
-To install PintOS please use the guidelines listed at the [installation document](Installation.md).
-
 ## Project Documents
 
 The following is a list of the documents to explain and document the project and its requirements.
@@ -37,10 +33,3 @@ The following is a list of the documents to explain and document the project and
 2. [CSCI 350 - PintOS Guide](guides/CSCI&#32;350&#32;-&#32;Pintos&#32;Guide.pdf): A simple read for PintOS code and its requirement provided from [University of Southern California OS Course](http://bits.usc.edu/cs350/).
 3. [The Pintos Instructional Operating System Kernel (PintOS Paper)](guides/The&#32;Pintos&#32;Instructional&#32;Operating&#32;System&#32;Kernel.pdf): A good reading for instructors.
 4. [The Pintos Instructional Operating System Kernel (PintOS Presentation)](guides/SIGCSE2009-Pintos.pdf): A good reading for instructors.
-
-## Sessions' Videos
-
-Here's a list of sessions I made (in Arabic) for Alexandria University, explaining PintOS & its phases requirements:
-
-1. [Phase 1 Requirements](https://youtu.be/RLx_0nnEjaM)
-2. [Phase 2 Requirements](https://youtu.be/bFUmvVgmbOs)
